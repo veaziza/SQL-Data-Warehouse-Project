@@ -4,7 +4,7 @@ Building a modern data warehouse with SQL Server, including ETL processes, data 
 
 Become a Data Warehouse Expert: Master ETL, SQL, and Data Modeling with Real Enterprise Projects & Expert Guidance!
 
-Welcome to the most comprehensive, visual, and practical Data Warehouse course on Udemy - created by a data professional with over 15 years of experience at industry - leading companies like Mercedes-Benz and Bosch.
+Welcome to the most comprehensive, visual, and practical Data Warehouse course - created by a data professional with over 15 years of experience at industry - leading companies like Mercedes-Benz and Bosch.
 
 Designed specifically for aspiring data engineers, data analysts, career switchers, and professionals seeking advanced skills, this course helps you achieve real career outcomes like securing high-paying jobs, smoothly transitioning careers, and becoming interview-ready.
 
